@@ -21,4 +21,5 @@ De forma general son los dispositivos que le darán funcionamiento al bastón.
 
 Resultado:
 
+![VivFTQbqnoc_1280x720](https://user-images.githubusercontent.com/78035004/105890896-8d67e080-5fd5-11eb-8cef-817d4f173bb2.jpg)
 
